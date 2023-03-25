@@ -1,0 +1,11 @@
+{
+  "name": "fichador-electron",
+  "version": "0.0.1",
+  "description": "Software orientado a la gestion de asistencia para empresas de todos los tamaños, con un solo clic los empleados pueden registrar su asistencia diaria desde la computadora. La aplicacion registra la hora de entrada y salida, y los datos se almacenan automaticamente en la nube para facilitar el acceso y la gestion por parte de los gerentes de recursos humanos.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franco Damián Romagnoli",
+  "license": "MIT"
+}
